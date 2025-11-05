@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Neighborhood Guardian",
+  "description": "A modern neighborhood watch application that leverages AI to analyze reported incidents, provide safety tips, and keep the community informed and secure. Report suspicious activity, get real-time alerts, and collaborate with your neighbors.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
